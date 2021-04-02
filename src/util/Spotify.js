@@ -1,6 +1,6 @@
 // import API_KEYS from '../keys'
 const CLIENT_ID = '0dd238469cbe41fa90edca4803d151a1';
-const REDIRECT_URI = 'http://localhost:8238/callback';
+const REDIRECT_URI = 'http://localhost:3000/callback';
 let accessToken;
 const Spotify = {
     getAccessToken() {
